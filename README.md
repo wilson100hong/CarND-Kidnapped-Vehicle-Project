@@ -1,6 +1,13 @@
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
+---
+
+[//]: # (Image References)
+
+[image1]: ./youtube.png "Youtube png"
+
+---
 
 ## Running the Code
 This project involves the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
@@ -31,4 +38,6 @@ Yes. The translation error and yaw error is in range during the period. The outo
 Yes. Total running time is about 80 seconds.
 
 [YouTube video](https://www.youtube.com/watch?v=5qW7FRe77Os)
+
+![Screenshot][image1]
 
